@@ -2,7 +2,7 @@ import React from 'react';
 
 function Header() {
   return (
-    <header className="flex flex-col justify-between items-center h-40 text-white bg-gradient-to-r from-[#574AE8] to-[#3EA1DB]">
+    <header className="flex flex-col justify-between items-center h-40 mb-20 text-white bg-gradient-to-r from-[#574AE8] to-[#3EA1DB]">
       <div className="flex justify-between text-white mt-5 w-1/2">
         <span>Codelândia</span>
         <span>blog</span>
