@@ -1,5 +1,7 @@
 {
   "conventionalCommits.scopes": [
     "header"
+    "data",
+    "component"
   ]
 }
