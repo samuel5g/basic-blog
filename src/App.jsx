@@ -1,8 +1,9 @@
 import React from 'react';
+import NewsCard from './components/NewsCard';
 
 function App() {
   return (
-    <div>Blog App</div>
+    <NewsCard />
   );
 }
 
