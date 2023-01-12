@@ -1,11 +1,13 @@
 import React from 'react';
 import Header from './components/Header';
-import NewsCard from './components/NewsCard';
+import MainArticle from './components/MainArticle';
 
 function App() {
   return (
-    <Header />
-    <NewsCard />
+    <>
+      <Header />
+      <MainArticle />
+    </>
   );
 }
 

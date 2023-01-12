@@ -6,7 +6,7 @@ function NewsCard() {
     articles.map(({
       date, title, mainContent, id,
     }) => (
-      <div className="flex flex-col rounded bg-white shadow-md p-3 my-10 w-1/2" key={id}>
+      <div className="flex flex-col rounded bg-white shadow-md p-3 mb-10 w-1/2" key={id}>
 
         <div className="flex justify-between">
           <span className="text-sm text-slate-600">{date}</span>
