@@ -1,1 +1,7 @@
-# Work in Progress 🚧
+# Welcome to my Frontend Blog App!
+
+Here I used React to structure my project and Tailwind to style it.
+
+If you want to take a look at your browser/mobile phone, click [here](basic-blog-self.vercel.app)!
+
+This is how he looks like:
